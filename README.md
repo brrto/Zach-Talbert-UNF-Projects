@@ -1,3 +1,2 @@
-# Zach-Talbert-UNF-Projects
-p5_2Player - Internet Programming Final Project /n
-2PlayerShooter - Software Engineering Project
+# p5_2Player - Internet Programming Final Project
+# 2PlayerShooter - Software Engineering Project
